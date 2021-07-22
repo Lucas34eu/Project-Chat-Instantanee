@@ -1,3 +1,3 @@
 Projet Epitech 
-Création d'un site Web permettant de postuler à des offres type Indeed.<br>
+Création d'un site Web de discussioçn instantanée type Messenger.<br>
 Technologies Utilisé Js , Node.js , SQL
